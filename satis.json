@@ -1,7 +1,7 @@
 {
-  "name": "propertyistheft/propertyistheft",
+  "name": "property/theft",
   "description": "Just Another Composer Repository",
-  "homepage": "https://propertyistheft.github.io/composer/",
+  "homepage": "https://propertyistheft.github.io/",
   "repositories": [
     { "type": "vcs", "url": "https://github.com/propertyistheft/astra-addon" },
     { "type": "vcs", "url": "https://github.com/propertyistheft/bb-ultimate-addon" },
