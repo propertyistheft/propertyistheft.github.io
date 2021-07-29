@@ -5,7 +5,7 @@
             "sha1": "0548e1ceac2535d12f44e00f6f8559de3801ee4f"
         }
     },
-    "metadata-url": "/composer/p2/%package%.json",
+    "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "propertyistheft/astra-addon",
         "propertyistheft/bb-ultimate-addon",
