@@ -165,6 +165,29 @@
                     "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
                 }
             },
+            "1.33.0": {
+                "name": "propertyistheft/bb-ultimate-addon",
+                "version": "1.33.0",
+                "version_normalized": "1.33.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/bb-ultimate-addon.git",
+                    "reference": "9876c05758557831ba1b00411aac7c4c1cc5138e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/9876c05758557831ba1b00411aac7c4c1cc5138e",
+                    "reference": "9876c05758557831ba1b00411aac7c4c1cc5138e",
+                    "shasum": ""
+                },
+                "time": "2021-09-09T14:49:18+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Beaver Builder for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.33.0",
+                    "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
+                }
+            },
             "dev-master": {
                 "name": "propertyistheft/bb-ultimate-addon",
                 "version": "dev-master",
@@ -172,20 +195,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/bb-ultimate-addon.git",
-                    "reference": "b449e862662e4e42ed8692cc6082286d53fb1b30"
+                    "reference": "9876c05758557831ba1b00411aac7c4c1cc5138e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/b449e862662e4e42ed8692cc6082286d53fb1b30",
-                    "reference": "b449e862662e4e42ed8692cc6082286d53fb1b30",
+                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/9876c05758557831ba1b00411aac7c4c1cc5138e",
+                    "reference": "9876c05758557831ba1b00411aac7c4c1cc5138e",
                     "shasum": ""
                 },
-                "time": "2021-08-05T22:04:33+00:00",
+                "time": "2021-09-09T14:49:18+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Ultimate Addons for Beaver Builder for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.32.0",
+                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.33.0",
                     "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
                 }
             }
