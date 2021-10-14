@@ -1,0 +1,14 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$619a72ea9813b9f1639114d8d061320d3a90e756.json": {
+            "sha1": "619a72ea9813b9f1639114d8d061320d3a90e756"
+        }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "propertyistheft/astra-addon",
+        "propertyistheft/bb-ultimate-addon",
+        "propertyistheft/ultimate-elementor"
+    ]
+}
