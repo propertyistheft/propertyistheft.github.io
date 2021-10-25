@@ -5,7 +5,8 @@
   "repositories": [
     { "type": "vcs", "url": "https://github.com/propertyistheft/astra-addon" },
     { "type": "vcs", "url": "https://github.com/propertyistheft/bb-ultimate-addon" },
-    { "type": "vcs", "url": "https://github.com/propertyistheft/ultimate-elementor" }
+    { "type": "vcs", "url": "https://github.com/propertyistheft/ultimate-elementor" },
+    { "type": "vcs", "url": "https://github.com/propertyistheft/jet-woo-product-gallery" }
   ],
   "require-all": true
 }
