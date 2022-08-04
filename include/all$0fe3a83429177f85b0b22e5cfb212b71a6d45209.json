@@ -369,6 +369,29 @@
                     "issues": "https://github.com/propertyistheft/astra-addon/issues"
                 }
             },
+            "3.7.3": {
+                "name": "propertyistheft/astra-addon",
+                "version": "3.7.3",
+                "version_normalized": "3.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/astra-addon.git",
+                    "reference": "158ded2e7fc2f9d460f4e21ea5ba977467238181"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/158ded2e7fc2f9d460f4e21ea5ba977467238181",
+                    "reference": "158ded2e7fc2f9d460f4e21ea5ba977467238181",
+                    "shasum": ""
+                },
+                "time": "2022-08-04T22:41:37+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Astra Pro addon for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/3.7.3",
+                    "issues": "https://github.com/propertyistheft/astra-addon/issues"
+                }
+            },
             "3.9.0": {
                 "name": "propertyistheft/astra-addon",
                 "version": "3.9.0",
@@ -392,6 +415,29 @@
                     "issues": "https://github.com/propertyistheft/astra-addon/issues"
                 }
             },
+            "3.9.1": {
+                "name": "propertyistheft/astra-addon",
+                "version": "3.9.1",
+                "version_normalized": "3.9.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/astra-addon.git",
+                    "reference": "3ba7d2a0b9a8903e950f567f162815af55eeb171"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/3ba7d2a0b9a8903e950f567f162815af55eeb171",
+                    "reference": "3ba7d2a0b9a8903e950f567f162815af55eeb171",
+                    "shasum": ""
+                },
+                "time": "2022-08-04T22:40:56+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Astra Pro addon for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/3.9.1",
+                    "issues": "https://github.com/propertyistheft/astra-addon/issues"
+                }
+            },
             "dev-master": {
                 "name": "propertyistheft/astra-addon",
                 "version": "dev-master",
@@ -399,20 +445,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/astra-addon.git",
-                    "reference": "8882f67cf03307e08e57553aeb4fa467489457a1"
+                    "reference": "7d7e3ab252271e054b7cd16c30ed5414147b052a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/8882f67cf03307e08e57553aeb4fa467489457a1",
-                    "reference": "8882f67cf03307e08e57553aeb4fa467489457a1",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/7d7e3ab252271e054b7cd16c30ed5414147b052a",
+                    "reference": "7d7e3ab252271e054b7cd16c30ed5414147b052a",
                     "shasum": ""
                 },
-                "time": "2022-07-21T15:14:42+00:00",
+                "time": "2022-08-04T22:44:06+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Astra Pro addon for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/astra-addon/tree/3.9.0",
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/master",
                     "issues": "https://github.com/propertyistheft/astra-addon/issues"
                 }
             }
