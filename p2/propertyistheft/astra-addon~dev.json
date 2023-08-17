@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/astra-addon.git",
-                    "reference": "b445ee490b0875d82c3cab40e93e78c5cb923d1f"
+                    "reference": "8f593eeafbebc704114ed8f1e9e91d525183951d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/b445ee490b0875d82c3cab40e93e78c5cb923d1f",
-                    "reference": "b445ee490b0875d82c3cab40e93e78c5cb923d1f",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/8f593eeafbebc704114ed8f1e9e91d525183951d",
+                    "reference": "8f593eeafbebc704114ed8f1e9e91d525183951d",
                     "shasum": ""
                 },
-                "time": "2023-07-06T19:57:29+00:00",
+                "time": "2023-08-17T21:42:21+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Astra Pro addon for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/astra-addon/tree/4.1.6",
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/4.1.7",
                     "issues": "https://github.com/propertyistheft/astra-addon/issues"
                 }
             }
