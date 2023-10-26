@@ -509,6 +509,52 @@
             },
             {
                 "name": "propertyistheft/ultimate-elementor",
+                "version": "1.36.23",
+                "version_normalized": "1.36.23.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/ultimate-elementor.git",
+                    "reference": "6d550861c44d261573522c4b68403df784b805f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/ultimate-elementor/zipball/6d550861c44d261573522c4b68403df784b805f7",
+                    "reference": "6d550861c44d261573522c4b68403df784b805f7",
+                    "shasum": ""
+                },
+                "time": "2023-10-12T15:10:55+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Elementor for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/ultimate-elementor/tree/1.36.23",
+                    "issues": "https://github.com/propertyistheft/ultimate-elementor/issues"
+                }
+            },
+            {
+                "name": "propertyistheft/ultimate-elementor",
+                "version": "1.36.24",
+                "version_normalized": "1.36.24.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/ultimate-elementor.git",
+                    "reference": "de9d58abb89f8b31701e94fae374fb02b7958105"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/ultimate-elementor/zipball/de9d58abb89f8b31701e94fae374fb02b7958105",
+                    "reference": "de9d58abb89f8b31701e94fae374fb02b7958105",
+                    "shasum": ""
+                },
+                "time": "2023-10-26T17:44:17+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Elementor for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/ultimate-elementor/tree/1.36.24",
+                    "issues": "https://github.com/propertyistheft/ultimate-elementor/issues"
+                }
+            },
+            {
+                "name": "propertyistheft/ultimate-elementor",
                 "version": "1.36.3",
                 "version_normalized": "1.36.3.0",
                 "source": {
