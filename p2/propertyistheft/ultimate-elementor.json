@@ -739,6 +739,29 @@
             },
             {
                 "name": "propertyistheft/ultimate-elementor",
+                "version": "1.36.33",
+                "version_normalized": "1.36.33.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/ultimate-elementor.git",
+                    "reference": "1bdf47093392a72be52afdd7774f2d5f59f3f839"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/ultimate-elementor/zipball/1bdf47093392a72be52afdd7774f2d5f59f3f839",
+                    "reference": "1bdf47093392a72be52afdd7774f2d5f59f3f839",
+                    "shasum": ""
+                },
+                "time": "2024-06-06T16:18:01+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Elementor for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/ultimate-elementor/tree/1.36.33",
+                    "issues": "https://github.com/propertyistheft/ultimate-elementor/issues"
+                }
+            },
+            {
+                "name": "propertyistheft/ultimate-elementor",
                 "version": "1.36.4",
                 "version_normalized": "1.36.4.0",
                 "source": {
