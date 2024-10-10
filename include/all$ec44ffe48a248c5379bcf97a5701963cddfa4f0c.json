@@ -1082,6 +1082,52 @@
                     "issues": "https://github.com/propertyistheft/astra-addon/issues"
                 }
             },
+            "4.8.2": {
+                "name": "propertyistheft/astra-addon",
+                "version": "4.8.2",
+                "version_normalized": "4.8.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/astra-addon.git",
+                    "reference": "fb3cba446adfa958b771cc0f54b2b9fdbaa39b99"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/fb3cba446adfa958b771cc0f54b2b9fdbaa39b99",
+                    "reference": "fb3cba446adfa958b771cc0f54b2b9fdbaa39b99",
+                    "shasum": ""
+                },
+                "time": "2024-10-03T16:34:03+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Astra Pro addon for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/4.8.2",
+                    "issues": "https://github.com/propertyistheft/astra-addon/issues"
+                }
+            },
+            "4.8.3": {
+                "name": "propertyistheft/astra-addon",
+                "version": "4.8.3",
+                "version_normalized": "4.8.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/astra-addon.git",
+                    "reference": "530bccb7e49353ec432b740d94f4c9eecb1ca19a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/530bccb7e49353ec432b740d94f4c9eecb1ca19a",
+                    "reference": "530bccb7e49353ec432b740d94f4c9eecb1ca19a",
+                    "shasum": ""
+                },
+                "time": "2024-10-10T16:33:28+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Astra Pro addon for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/4.8.3",
+                    "issues": "https://github.com/propertyistheft/astra-addon/issues"
+                }
+            },
             "dev-master": {
                 "name": "propertyistheft/astra-addon",
                 "version": "dev-master",
@@ -1089,20 +1135,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/astra-addon.git",
-                    "reference": "2f4bd7ea3f1b104393bfb232444eaa173fe60ff4"
+                    "reference": "530bccb7e49353ec432b740d94f4c9eecb1ca19a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/2f4bd7ea3f1b104393bfb232444eaa173fe60ff4",
-                    "reference": "2f4bd7ea3f1b104393bfb232444eaa173fe60ff4",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/530bccb7e49353ec432b740d94f4c9eecb1ca19a",
+                    "reference": "530bccb7e49353ec432b740d94f4c9eecb1ca19a",
                     "shasum": ""
                 },
-                "time": "2024-09-12T18:57:52+00:00",
+                "time": "2024-10-10T16:33:28+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Astra Pro addon for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/astra-addon/tree/4.8.1",
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/4.8.3",
                     "issues": "https://github.com/propertyistheft/astra-addon/issues"
                 }
             }
@@ -1683,6 +1729,52 @@
                     "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
                 }
             },
+            "1.35.24": {
+                "name": "propertyistheft/bb-ultimate-addon",
+                "version": "1.35.24",
+                "version_normalized": "1.35.24.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/bb-ultimate-addon.git",
+                    "reference": "3829aaa6f28cb898bc9c82ac98afdf7381ef5dd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/3829aaa6f28cb898bc9c82ac98afdf7381ef5dd1",
+                    "reference": "3829aaa6f28cb898bc9c82ac98afdf7381ef5dd1",
+                    "shasum": ""
+                },
+                "time": "2024-10-03T16:35:02+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Beaver Builder for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.35.24",
+                    "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
+                }
+            },
+            "1.35.25": {
+                "name": "propertyistheft/bb-ultimate-addon",
+                "version": "1.35.25",
+                "version_normalized": "1.35.25.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/bb-ultimate-addon.git",
+                    "reference": "3e0be51f2624da00fce14a733a34785d37a7d8b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/3e0be51f2624da00fce14a733a34785d37a7d8b0",
+                    "reference": "3e0be51f2624da00fce14a733a34785d37a7d8b0",
+                    "shasum": ""
+                },
+                "time": "2024-10-10T16:34:08+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Beaver Builder for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.35.25",
+                    "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
+                }
+            },
             "1.35.3": {
                 "name": "propertyistheft/bb-ultimate-addon",
                 "version": "1.35.3",
@@ -1828,20 +1920,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/bb-ultimate-addon.git",
-                    "reference": "19723a50c807e84f4c96e78f4b23bf9820f5ae96"
+                    "reference": "3e0be51f2624da00fce14a733a34785d37a7d8b0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/19723a50c807e84f4c96e78f4b23bf9820f5ae96",
-                    "reference": "19723a50c807e84f4c96e78f4b23bf9820f5ae96",
+                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/3e0be51f2624da00fce14a733a34785d37a7d8b0",
+                    "reference": "3e0be51f2624da00fce14a733a34785d37a7d8b0",
                     "shasum": ""
                 },
-                "time": "2024-07-25T15:37:42+00:00",
+                "time": "2024-10-10T16:34:08+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Ultimate Addons for Beaver Builder for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.35.23",
+                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.35.25",
                     "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
                 }
             }
@@ -2747,6 +2839,29 @@
                     "issues": "https://github.com/propertyistheft/ultimate-elementor/issues"
                 }
             },
+            "1.36.39": {
+                "name": "propertyistheft/ultimate-elementor",
+                "version": "1.36.39",
+                "version_normalized": "1.36.39.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/ultimate-elementor.git",
+                    "reference": "7cc7d016a6de8cd6be81df2968cfc731ae408f36"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/ultimate-elementor/zipball/7cc7d016a6de8cd6be81df2968cfc731ae408f36",
+                    "reference": "7cc7d016a6de8cd6be81df2968cfc731ae408f36",
+                    "shasum": ""
+                },
+                "time": "2024-10-10T16:34:38+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Elementor for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/ultimate-elementor/tree/1.36.39",
+                    "issues": "https://github.com/propertyistheft/ultimate-elementor/issues"
+                }
+            },
             "1.36.4": {
                 "name": "propertyistheft/ultimate-elementor",
                 "version": "1.36.4",
@@ -2869,20 +2984,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/ultimate-elementor.git",
-                    "reference": "5666a5eb1c2126abecb3bfdccb32580fd040ff37"
+                    "reference": "7cc7d016a6de8cd6be81df2968cfc731ae408f36"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/ultimate-elementor/zipball/5666a5eb1c2126abecb3bfdccb32580fd040ff37",
-                    "reference": "5666a5eb1c2126abecb3bfdccb32580fd040ff37",
+                    "url": "https://api.github.com/repos/propertyistheft/ultimate-elementor/zipball/7cc7d016a6de8cd6be81df2968cfc731ae408f36",
+                    "reference": "7cc7d016a6de8cd6be81df2968cfc731ae408f36",
                     "shasum": ""
                 },
-                "time": "2024-09-05T21:23:42+00:00",
+                "time": "2024-10-10T16:34:38+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Ultimate Addons for Elementor for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/ultimate-elementor/tree/1.36.37",
+                    "source": "https://github.com/propertyistheft/ultimate-elementor/tree/1.36.39",
                     "issues": "https://github.com/propertyistheft/ultimate-elementor/issues"
                 }
             }
