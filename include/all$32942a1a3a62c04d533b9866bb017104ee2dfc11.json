@@ -1135,20 +1135,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/astra-addon.git",
-                    "reference": "530bccb7e49353ec432b740d94f4c9eecb1ca19a"
+                    "reference": "97ba3045ed7d30beb2e6ccebe3803dc7d3993dc2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/530bccb7e49353ec432b740d94f4c9eecb1ca19a",
-                    "reference": "530bccb7e49353ec432b740d94f4c9eecb1ca19a",
+                    "url": "https://api.github.com/repos/propertyistheft/astra-addon/zipball/97ba3045ed7d30beb2e6ccebe3803dc7d3993dc2",
+                    "reference": "97ba3045ed7d30beb2e6ccebe3803dc7d3993dc2",
                     "shasum": ""
                 },
-                "time": "2024-10-10T16:33:28+00:00",
+                "time": "2024-11-14T16:33:10+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Astra Pro addon for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/astra-addon/tree/4.8.3",
+                    "source": "https://github.com/propertyistheft/astra-addon/tree/master",
                     "issues": "https://github.com/propertyistheft/astra-addon/issues"
                 }
             }
@@ -1798,6 +1798,29 @@
                     "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
                 }
             },
+            "1.35.27": {
+                "name": "propertyistheft/bb-ultimate-addon",
+                "version": "1.35.27",
+                "version_normalized": "1.35.27.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/propertyistheft/bb-ultimate-addon.git",
+                    "reference": "6220ba6e1b46520ec247ed75c9d4310a35a2d5ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/6220ba6e1b46520ec247ed75c9d4310a35a2d5ab",
+                    "reference": "6220ba6e1b46520ec247ed75c9d4310a35a2d5ab",
+                    "shasum": ""
+                },
+                "time": "2024-11-14T16:34:41+00:00",
+                "type": "wordpress-plugin",
+                "description": "Fork of Ultimate Addons for Beaver Builder for use with composer",
+                "support": {
+                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.35.27",
+                    "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
+                }
+            },
             "1.35.3": {
                 "name": "propertyistheft/bb-ultimate-addon",
                 "version": "1.35.3",
@@ -1943,20 +1966,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/propertyistheft/bb-ultimate-addon.git",
-                    "reference": "97affa4cb6144db78d39151322f5d3d813d10def"
+                    "reference": "6220ba6e1b46520ec247ed75c9d4310a35a2d5ab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/97affa4cb6144db78d39151322f5d3d813d10def",
-                    "reference": "97affa4cb6144db78d39151322f5d3d813d10def",
+                    "url": "https://api.github.com/repos/propertyistheft/bb-ultimate-addon/zipball/6220ba6e1b46520ec247ed75c9d4310a35a2d5ab",
+                    "reference": "6220ba6e1b46520ec247ed75c9d4310a35a2d5ab",
                     "shasum": ""
                 },
-                "time": "2024-10-17T14:36:06+00:00",
+                "time": "2024-11-14T16:34:41+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Fork of Ultimate Addons for Beaver Builder for use with composer",
                 "support": {
-                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.35.26",
+                    "source": "https://github.com/propertyistheft/bb-ultimate-addon/tree/1.35.27",
                     "issues": "https://github.com/propertyistheft/bb-ultimate-addon/issues"
                 }
             }
